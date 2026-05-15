@@ -52,12 +52,12 @@ Amazon EventBridge Scheduler
 ---
 
 ### Email Notification Delivery
-![Email Notification](screenshots/3-email-notification.png)
+![Email Notification](/3-email-notification.png)
 
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](architecture/vision-vault-event-automation.png)
+![Architecture Diagram](/vision-vault-event-automation.png)
 
 ---
 
