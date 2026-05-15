@@ -47,7 +47,7 @@ Amazon EventBridge Scheduler
 ## Project Screenshots
 
 ### SNS Topic Configuration
-![SNS Topic](screenshots/2-sns-topic.png.png)
+![SNS Topic](/2-sns-topic.png.png)
 
 ---
 
