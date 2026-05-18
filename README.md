@@ -25,7 +25,7 @@ Vision Vault Event Automation is a **fully serverless, event-driven notification
 ## 🏗️ Architecture
 
 <div align="center">
-<img src="vision-vault-event-automation.png" alt="Vision Vault Event Automation Architecture" width="100%" />
+<img src="vision-vault-event-automation.png" alt="Vision Vault Event Automation Architecture" width="60%" />
 </div>
 
 ```
